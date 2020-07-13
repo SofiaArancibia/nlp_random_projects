@@ -1,0 +1,20 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+jupyterlab = "*"
+pandas = "*"
+matplotlib = "*"
+emoji = "*"
+sklearn = "*"
+nltk = "*"
+spacy = "*"
+seaborn = "*"
+pillow = "*"
+
+[requires]
+python_version = "3.6"
